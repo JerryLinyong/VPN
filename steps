@@ -1,7 +1,5 @@
 //账号密码
-144.202.87.126
 root
-}4Ht3u@5{E[*WLZU
 //加速浏览
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 //安装ssr centos7系统
